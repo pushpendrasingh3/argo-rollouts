@@ -24,9 +24,9 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/newrelic/newrelic-client-go v1.1.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.16.0
-	github.com/prometheus/client_model v0.3.0
-	github.com/prometheus/common v0.42.0
+	github.com/prometheus/client_golang v1.18.0
+	github.com/prometheus/client_model v0.5.0
+	github.com/prometheus/common v0.46.0
 	github.com/prometheus/common/sigv4 v0.1.0
 	github.com/servicemeshinterface/smi-sdk-go v0.5.0
 	github.com/sirupsen/logrus v1.9.3
@@ -36,10 +36,10 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/tj/assert v0.0.3
 	github.com/valyala/fasttemplate v1.2.2
-	golang.org/x/oauth2 v0.13.0
+	golang.org/x/oauth2 v0.16.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20230822172742-b8732ec3820d
 	google.golang.org/grpc v1.59.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.32.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.25.8
 	k8s.io/apiextensions-apiserver v0.25.8
@@ -149,7 +149,6 @@ require (
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
-	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/go-testing-interface v1.0.0 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
@@ -166,7 +165,7 @@ require (
 	github.com/opsgenie/opsgenie-go-sdk-v2 v1.2.13 // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/prometheus/procfs v0.10.1 // indirect
+	github.com/prometheus/procfs v0.12.0 // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/slack-go/slack v0.12.2 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
@@ -179,12 +178,12 @@ require (
 	github.com/xlab/treeprint v1.1.0 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/crypto v0.18.0 // indirect
 	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/sys v0.13.0 // indirect
-	golang.org/x/term v0.13.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/net v0.20.0 // indirect
+	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/term v0.16.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.6.0 // indirect
 	gomodules.xyz/envconfig v1.3.1-0.20190308184047-426f31af0d45 // indirect
